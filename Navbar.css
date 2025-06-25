@@ -1,0 +1,77 @@
+.SecN1{
+    background-color:rgb(241,244,255);
+    overflow: hidden;
+    padding-top: 10px;
+    height: 15vh;
+}
+.Sec1color{
+    color: pink;
+}
+
+.SecN2{
+    display: flex;
+    background-color: rgb(255,255,255);
+    overflow: hidden;
+    padding-top: 5px;
+}
+ul{
+    font-family: "Times New Roman", Times, serif;
+}
+.SecN2 li {
+    display:inline;
+}
+input{
+    border: None;
+    outline: None;
+    border-radius: 20px;
+    width: 290px;
+}
+.padding1{
+    padding-left: 1px;
+}
+.padding2{
+    padding-left: 90px;
+}
+.padding3{
+    padding-left: 200px;
+}
+.padding4{
+    padding-left: 30px;
+}
+.padding5{
+    padding-left: 30px;
+}
+
+.SecN3{
+    padding-top: 30px;
+}
+.SecN3 li {
+    display:inline;
+    text-decoration: none;
+    text-align: center;
+}
+.padding11{
+    padding-left: 30px;
+}
+.padding12{
+    padding-left: 30px;
+}
+.padding13{
+    padding-left: 30px;
+}
+.padding14{
+    padding-left: 30px;
+}
+.padding15{
+    padding-left: 30px;
+}
+.padding16{
+    padding-left: 30px;
+}
+.padding17{
+    padding-left: 30px;
+}
+.SecN3 ul li a {
+    text-decoration: none;
+    color: black;
+  }

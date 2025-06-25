@@ -1,0 +1,137 @@
+.hcartbuttonstyle{
+    background-color: rgb(252,80,149);
+    color:white;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.Sec1{
+    width: 100%;
+    height:90vh;
+    background-image: url('https://thekawaiishoppu.com/cdn/shop/files/kawaii_banner_spring_home_page.png?v=1741261634');
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    position: relative;
+     margin: 0;
+    padding: 0;
+}
+.s1div1{
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 390px;
+    padding-top: 30px;
+    padding-bottom: 200px;
+    width: 500px;
+    height: 150px;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color: rgb(220,218,222);;
+}
+.Sec1color1{
+    color: rgb(252,80,149);
+    background-color:white;
+    font-weight: bolder;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.Sec1color2{
+    color: black;
+}
+.Sec1buttonstyle{
+    background-color: rgb(252,80,149);
+    color:white;
+    border: none;
+}
+.Sec2{
+    padding-top: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+    overflow: hidden;
+    font-size: 14px;
+}
+.size{
+    font-size: 12px;
+}
+.reviewcolor{
+    color: burlywood;
+}
+
+.Sec3{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 20px;
+    overflow: hidden;
+    background-color: rgb(241,244,255);
+    padding-bottom: 40px;
+}
+.Sec3color1{
+    color: rgb(252,80,149); 
+    font-weight: bold;  
+}
+.Sec3buttonstyle{
+    background-color: rgb(252,80,149);
+    color:white;
+    border: none;
+    border: 20px;
+}
+.Sec3bc {
+    background-color: rgb(241,244,255);
+}
+
+
+.Sec4{
+    padding-top: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.Sec5{
+    background-color: rgb(241,244,255);
+    padding-top: 40px;
+    padding-bottom: 90px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Sec5style{
+    padding-left: 50px;
+    padding-bottom: 40px;
+}
+
+.Sec6{
+    padding-top: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+    overflow: hidden;
+    font-size: 14px;
+}
+.Sec7{
+    padding-top: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.Sec8{
+    overflow: hidden;
+    padding-top: 40px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.Sec8color{
+    color: rgb(252,80,149);
+}
+
+.Sec8buttonstyle{
+    background-color: rgb(252,80,149);
+    color:white;
+    border: none;
+}
